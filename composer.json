@@ -1,7 +1,7 @@
 {
     "name": "php-coord/datapack-northamerica",
     "description": "PHPCoord high-accuracy addon datapack for North America",
-    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "wgs84", "osgb36", "utm", "nad", "nzmg", "gda", "ed50", "epsg", "north america"],
+    "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "north america"],
     "type": "library",
     "homepage": "https://www.phpcoord.net/",
     "authors": [
