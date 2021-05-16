@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * North America/USA - Pacific Plate.
+ * North America/Pacific - US interests Pacific plate.
  * @internal
  */
 class Extent4162

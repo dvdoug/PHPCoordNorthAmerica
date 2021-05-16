@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * North America/USA - Indiana - Lagrange and Noble.
+ * North America/USA - Indiana - LaGrange and Noble.
  * @internal
  */
 class Extent4281

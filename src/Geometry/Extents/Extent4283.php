@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * North America/USA - Indiana - De Kalb.
+ * North America/USA - Indiana - DeKalb.
  * @internal
  */
 class Extent4283

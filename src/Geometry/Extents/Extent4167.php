@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * North America/USA - Mariana plate.
+ * North America/Pacific - US interests Mariana plate.
  * @internal
  */
 class Extent4167
