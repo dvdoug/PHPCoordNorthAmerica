@@ -14,6 +14,6 @@ class NTv2NAD27CGQ77NAD831986QuebecProvider implements GridProvider
 
     public function provideGrid(): NTv2Grid
     {
-        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/CQ77NA83.GSB');
+        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/CQ77NA83.gsb');
     }
 }
