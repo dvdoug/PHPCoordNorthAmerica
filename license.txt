@@ -42,7 +42,7 @@ Please see https://epsg.org/terms-of-use.html for full terms of use if you wish 
 PHPCoord.
 
 
-NADCON5 grids from US National Geodetic Survey
+NADCON5 and GTX grids from US National Geodetic Survey
 https://www.ngs.noaa.gov/disclaimer.html
 
 The person or persons who have associated work with this document (the "Dedicator" or "Certifier") hereby either
