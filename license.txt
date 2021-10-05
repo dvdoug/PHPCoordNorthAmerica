@@ -42,7 +42,7 @@ Please see https://epsg.org/terms-of-use.html for full terms of use if you wish 
 PHPCoord.
 
 
-NADCON5 and GTX grids from US National Geodetic Survey
+Grids from US National Geodetic Survey
 https://www.ngs.noaa.gov/disclaimer.html
 
 The person or persons who have associated work with this document (the "Dedicator" or "Certifier") hereby either
@@ -64,7 +64,7 @@ Dedicator recognizes that, once placed in the public domain, the Work may be fre
 transmitted, used, modified, built upon, or otherwise exploited by anyone for any purpose, commercial or non-commercial,
 and in any way, including by methods that have not yet been invented or conceived.
 
-Canadian NTv2 grids from Canadian Geodetic Survey
+Grids from Canadian Geodetic Survey
 Open Government Licence - Canada
 
 You are encouraged to use the Information that is available under this licence with only a few conditions.
