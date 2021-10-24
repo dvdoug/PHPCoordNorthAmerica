@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class NTv2NAD27CGQ77NAD83CSRS1997QuebecProvider implements GridProvider
 {
-    private NTv2Grid $cache;
-
     public function provideGrid(): NTv2Grid
     {
-        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/CQ77SCRS.gsb');
+        return new NTv2Grid(__DIR__ . '/../../resources/CQ77SCRS.gsb');
     }
 }

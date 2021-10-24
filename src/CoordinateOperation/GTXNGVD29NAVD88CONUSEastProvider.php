@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class GTXNGVD29NAVD88CONUSEastProvider implements GridProvider
 {
-    private GTXGrid $cache;
-
     public function provideGrid(): GTXGrid
     {
-        return $this->cache ??= new GTXGrid(__DIR__ . '/../../resources/vertcone.gtx');
+        return new GTXGrid(__DIR__ . '/../../resources/vertcone.gtx');
     }
 }

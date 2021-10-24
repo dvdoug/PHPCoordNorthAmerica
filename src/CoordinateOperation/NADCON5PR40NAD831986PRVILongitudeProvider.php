@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class NADCON5PR40NAD831986PRVILongitudeProvider implements GridProvider
 {
-    private NADCON5Grid $cache;
-
     public function provideGrid(): NADCON5Grid
     {
-        return $this->cache ??= new NADCON5Grid(__DIR__ . '/../../resources/nadcon5.pr40.nad83_1986.prvi.lon.trn.20160901.b');
+        return new NADCON5Grid(__DIR__ . '/../../resources/nadcon5.pr40.nad83_1986.prvi.lon.trn.20160901.b');
     }
 }

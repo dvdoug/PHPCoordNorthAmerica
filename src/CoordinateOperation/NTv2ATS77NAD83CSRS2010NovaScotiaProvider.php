@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class NTv2ATS77NAD83CSRS2010NovaScotiaProvider implements GridProvider
 {
-    private NTv2Grid $cache;
-
     public function provideGrid(): NTv2Grid
     {
-        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/NS778302.GSB');
+        return new NTv2Grid(__DIR__ . '/../../resources/NS778302.GSB');
     }
 }
