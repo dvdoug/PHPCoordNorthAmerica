@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- New grid files for Canada
 
 ## [1.2.0] - 2021-11-12
 ### Added
