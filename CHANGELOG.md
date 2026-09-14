@@ -1,6 +1,11 @@
 # Changelog
 
 ## [Unreleased]
+## [1.5.1] - 2026-09-14
+### Added
+- New grid file for Canada
+### Changed
+- Updates to extents for Papua New Guinea
 
 ## [1.5.0] - 2023-11-04
 ### Changed
@@ -33,7 +38,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.1...HEAD
+[1.5.1]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.2.0...v1.3.0
