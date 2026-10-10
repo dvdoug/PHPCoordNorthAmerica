@@ -9,10 +9,10 @@ declare(strict_types=1);
 
 namespace PHPCoord\CoordinateOperation;
 
-class BYNNAD83CSRS2010CGVD28Provider implements GridProvider
+class BYNCGVD28CGG2013a2010v80Provider implements GridProvider
 {
     public function provideGrid(): BYNHeightGrid
     {
-        return new BYNHeightGrid(__DIR__ . '/../../resources/HT2_2010v70.byn');
+        return new BYNHeightGrid(__DIR__ . '/../../resources/HT2_2010v80_CGG2013a.byn');
     }
 }

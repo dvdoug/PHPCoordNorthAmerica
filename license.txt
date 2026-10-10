@@ -42,6 +42,12 @@ Please see https://epsg.org/terms-of-use.html for full terms of use if you wish 
 PHPCoord.
 
 
+GGM10 geoid from Instituto Nacional de Estadística y Geografía (INEGI), Mexico
+Creative Commons Attribution 4.0 International — https://creativecommons.org/licenses/by/4.0/
+
+BONGEO2004 geoid (nl_nsgi_bongeo2004.tif) from Nederlandse Samenwerking Geodetische Infrastructuur via PROJ-data (https://cdn.proj.org/nl_nsgi_bongeo2004.tif, downloaded 20261004)
+Derived from work by NGA. Public domain.
+
 Grids from US National Geodetic Survey
 https://www.ngs.noaa.gov/disclaimer.html
 
@@ -259,7 +265,7 @@ Creative Commons is not a party to its public licenses. Notwithstanding, Creativ
 
 Creative Commons may be contacted at creativecommons.org.
 
-Height grids from IGN France (https://geodesie.ign.fr/index.php?page=grilles, downloaded 20210919)
+Height grids from IGN France (https://geodesie.ign.fr/index.php?page=grilles, downloaded 20210919). gg23sm.tac and gg23sb.tac are GG23SM.mnt and GG23SB.mnt from the same page, downloaded 20261003.
 LICENCE OUVERTE / OPEN LICENCE
 
 ===================================================================

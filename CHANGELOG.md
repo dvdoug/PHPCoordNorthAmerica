@@ -1,6 +1,13 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.6.0] - 2026-10-10
+### Added
+- Grid files for Bonaire, Canada and Mexico
+### Removed
+- Superseded Canada grids
+- Grid files no longer used by an exported operation
 ## [1.5.1] - 2026-09-14
 ### Added
 - New grid file for Canada
@@ -38,7 +45,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.1...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.3.0...v1.4.0
