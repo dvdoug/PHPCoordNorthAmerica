@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents for Puerto Rico, USA and US Virgin Islands
 
 ## [1.6.0] - 2026-10-10
 ### Added
