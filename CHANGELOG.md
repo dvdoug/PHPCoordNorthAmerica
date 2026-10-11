@@ -1,8 +1,12 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- Grid files for Puerto Rico, USA and US Virgin Islands
 ### Changed
 - Updates to extents for Puerto Rico, USA and US Virgin Islands
+### Removed
+- Grid files for American Samoa, Guam and Northern Mariana Islands (now in the Oceania datapack)
 
 ## [1.6.0] - 2026-10-10
 ### Added
