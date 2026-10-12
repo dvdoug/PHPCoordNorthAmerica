@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.7.0] - 2026-10-12
 ### Added
 - Grid files for Puerto Rico, USA and US Virgin Islands
 ### Changed
@@ -51,7 +53,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/dvdoug/PHPCoordNorthAmerica/compare/v1.4.0...v1.5.0
