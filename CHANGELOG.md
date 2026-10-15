@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents for USA
 
 ## [1.7.0] - 2026-10-12
 ### Added
